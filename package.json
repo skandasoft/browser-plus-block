@@ -1,7 +1,7 @@
 {
   "name": "browser-plus-block",
   "main": "./lib/browser-plus-block",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Sample Service for Blocking URI in Browser-Plus",
   "keywords": [],
   "repository": "https://github.com/skandasoft/browser-plus-block",
