@@ -1,21 +1,19 @@
 {
   "name": "browser-plus-block",
   "main": "./lib/browser-plus-block",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A short description of your package",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/skandasoft/browser-plus-block",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "consumedServices": {
     "browser-plus": {
       "versions": {
-          "^0.0.51": "consumeBrowserPlusService"
+        "^0.0.51": "consumeBrowserPlusService"
       }
     }
   }
