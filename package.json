@@ -1,11 +1,11 @@
 {
   "name": "browser-plus-block",
   "main": "./lib/browser-plus-block",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A short description of your package",
   "keywords": [
   ],
-  "repository": "https://github.com/atom/browser-plus-block",
+  "repository": "https://github.com/skandasoft/browser-plus-block",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
