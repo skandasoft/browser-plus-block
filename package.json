@@ -1,0 +1,22 @@
+{
+  "name": "browser-plus-block",
+  "main": "./lib/browser-plus-block",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "repository": "https://github.com/atom/browser-plus-block",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  },
+  "consumedServices": {
+    "browser-plus": {
+      "versions": {
+          "^0.0.51": "consumeBrowserPlusService"
+      }
+    }
+  }
+}
