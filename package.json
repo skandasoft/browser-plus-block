@@ -2,7 +2,7 @@
   "name": "browser-plus-block",
   "main": "./lib/browser-plus-block",
   "version": "0.0.2",
-  "description": "A short description of your package",
+  "description": "Sample Service for Blocking URI in Browser-Plus",
   "keywords": [],
   "repository": "https://github.com/skandasoft/browser-plus-block",
   "license": "MIT",
