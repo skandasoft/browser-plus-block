@@ -2,8 +2,9 @@ module.exports = BrowserPlusBlock =
 
   activate: (state) ->
 
-  consumeBrowserPlusService: (BrowserPlus)->
-    BrowserPlus.checkBlockUrl = (url)->
+  consumeBrowserPlusService: (bp)->
+
+    bp.model.checkBlockUrl = (url)->
       # return true if the url need to blocked
-      return true if url.indexOf('you') >= 0
+      return true if url.indexOf('youtube') >= 0
       return false
